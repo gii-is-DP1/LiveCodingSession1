@@ -1,10 +1,9 @@
-# Spring-data-jpa-parlamento
-Pequeño proyecto con spring data para el curso del parlamento.
+# Aplicación de gestión del parlamento
+Pequeño proyecto para la primera sesión de codificación en vivo de DP1.
 Vamos a:
- - Anotar la clase Organo y añadirla al persistence.xml
+ - Anotar la clase Organo. 
  - Crear el repositorio de organos.
- - Implementar el servicio (Descomentar)
- - Descomentar todos los Todos.
+ - Implementar (Descomentar) el servicio de gestión de órganos. 
+ - Crear un listado de Órganos y un formulario de edición de órganos.
  - Mapear las relaciones con organo (una manyToOnne y una ManyToMany ;-)
- - Probar la aplicación
- - Añadir una dependencia a Spring data Rest yver cual es el resultado.
+ - Hacer un pequeño ejercicio sobre la transaccionalidad de las operaciones.
